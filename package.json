@@ -1,0 +1,24 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "Plik packagr.json do nauki momgoosa",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniajtp/Mongoose.git"
+  },
+  "keywords": [
+    "nauka",
+    "mongoosa"
+  ],
+  "author": "ania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniajtp/Mongoose/issues"
+  },
+  "homepage": "https://github.com/aniajtp/Mongoose#readme"
+}
